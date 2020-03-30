@@ -1,2 +1,2 @@
-# sgulati1020-gmail.com
+# AI For Everyone
 Answers for Quiz for the Course "AI For Everyone"
